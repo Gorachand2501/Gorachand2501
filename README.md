@@ -14,7 +14,7 @@
 ### 👨‍🎓 About Me
 
 - 🎓 I'm currently pursuing **M.Tech in Computer Science** at **IIT Guwahati**  
-- 💡 Interested in **Deep Learning, Edge Computing, and Reinforcement Learning**
+- 💡 Interested in **Software Development, Machine Learning, Deep Learning**
 - 🚀 Currently working on **Proactive Caching for Vehicular Edge Networks**
 - 🧠 Past work includes **Brain Tumor Segmentation, Zero-shot Image Classification, and HLS-based Optimization**
 
@@ -23,26 +23,12 @@
 ### 🔍 Featured Projects
 | Project | Highlights |
 |--------|------------|
-| **MiDRE (M.Tech Thesis)** | Dual-expert sarcasm detector outperforming SOTA on MMSD2.0 (↑1.0% Acc, ↑3.8% F1) |
-| **DMGP (Few-shot Sarcasm)** | Gated prompt tuning + CLIP bias → MMSD2.0 accuracy ↑1.6% |
-| **Samsung AI AdBlocker** | Web extension w/ ANN + CNN models, 95.4% URL accuracy, 82.6% ad classification |
-| **IMDB Sentiment (HLS)** | Optimized latency 9× using Vivado HLS + C conversion |
-| **UNet Tumor Segmentation** | 98.97% accuracy on BraTS 3D MRI scans |
-| **Goat CNN Classifier** | DenseNet transfer learning, 99.4% accuracy, 6-breed validation |
+| **Proactive Caching in Vehicular Edge Networks (M.Tech Thesis)** | Developed a dynamic A3C-based deep RL framework for collaborative caching in high-mobility environments to reduce latency and improve data accessibility. |
+| **UNet Brain Tumor Segmentation** | Achieved 98.97% accuracy and 99.71% specificity on BraTS dataset for 3D MRI tumor segmentation using T1, T1CE, T2, and FLAIR modalities. |
+| **IMDB Sentiment Optimization (HLS)** | Converted sentiment model to C and applied Vivado HLS optimizations, reducing latency from ~1.45M to ~162K cycles—approaching HLS4ML benchmark. |
+| **Zero-Shot Image Classification using ViT + CLIP** | Achieved 64.3% accuracy on unseen and 62.5% on seen classes using Vision Transformers and CLIP with the CUB bird dataset. |
 
 ---
-
-### ⚙️ Tech Toolbox
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-🤗%20Transformers-333?style=flat)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
 ### 🛠️ Tools & Tech Stack
 
