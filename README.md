@@ -59,7 +59,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+<!-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) -->
 
 #### 🖥️ Operating Systems:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
@@ -79,16 +79,6 @@
 
 ---
 
-### 🛠️ Skills
-
-- **Languages**: Python, C, C++, SQL, HTML/CSS
-- **ML/DL**: PyTorch, TensorFlow*, Keras*
-- **Tools**: Git, Docker*, Google Colab, Jupyter, LaTeX*
-- **Frameworks**: ReactJS*, HLS (Vivado)
-- **Softwares**: Linux, Windows  
-\* *Elementary proficiency
-
----
 
 ### 📚 Key Courses @ IIT Guwahati
 
