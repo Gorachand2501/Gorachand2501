@@ -33,7 +33,7 @@
 ### 🛠️ Tools & Tech Stack
 
 #### 💻 Programming Languages:
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c%2B%2B&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -48,6 +48,10 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2E8BC0?logo=seaborn&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
 
 #### 🧪 Tools & Platforms:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
