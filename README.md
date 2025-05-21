@@ -1,116 +1,107 @@
-<h1 align="center">Hey there, I'm Dhruvkumar Kakadiya 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Gorachand Mondal</h1>
+<h3 align="center">M.Tech CSE @ IIT Guwahati | Deep Learning • Computer Vision • Reinforcement Learning</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:d.kakadiya@iitg.ac.in">
-    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/DZ3108/">
-    <img src="https://img.shields.io/badge/LeetCode-2006-yellow?logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/The_Dz">
-    <img src="https://img.shields.io/badge/Codeforces-1441-blue?logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/dhruv5211">
-    <img src="https://img.shields.io/badge/CodeChef-1769-orange?logo=codechef&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/gorachand25" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
+  <a href="mailto:m.gorachand@iitg.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Gorachand2501/"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/gora25"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/gora2501"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍🎓 About Me
 
-🎓 M.Tech in Computer Science @ **IIT Guwahati**  
-🔬 Ex-Research Intern @ **ISRO (SAC Ahmedabad)**  
-🧠 Passionate about **AI**, **Back Transliteration**, and **Remote Sensing**  
-📈 Competitive Programmer | GATE 2023 AIR **186 (99.75%ile)**
-
----
-
-### 💡 My Interests
-- NLP & Transliteration 🚀
-- Deep Learning & Computer Vision 🧠
-- Image Stitching, Panoramas & Geospatial AI 🌍
-- Optimization with HLS ⚙️
+- 🎓 I'm currently pursuing **M.Tech in Computer Science** at **IIT Guwahati**  
+- 💡 Interested in **Deep Learning, Edge Computing, and Reinforcement Learning**
+- 🚀 Currently working on **Proactive Caching for Vehicular Edge Networks**
+- 🧠 Past work includes **Brain Tumor Segmentation, Zero-shot Image Classification, and HLS-based Optimization**
 
 ---
 
-### 🔥 Competitive Programming Stats
-
-| Platform     | Handle                        | Rating (Max) | Questions Solved |
-|--------------|-------------------------------|---------------|-------------------|
-| LeetCode     | [DZ3108](https://leetcode.com/DZ3108/)      | 🟨 2006 (2057) | 840+              |
-| Codeforces   | [The_Dz](https://codeforces.com/profile/The_Dz) | 🔵 1441 (1518) | 220+              |
-| CodeChef     | [dhruv5211](https://www.codechef.com/users/dhruv5211) | 🟠 1769 (1827) | 260+              |
-
----
-
-### 🧠 Key Projects
-
-- 📝 **[IndiBackTranslit (Thesis)](https://github.com/DZ521111)**  
-  Back transliteration of Romanized Indian languages using transformer & multilingual LLMs.
-
-- 🧠 **[HLS Brain Tumor Optimization](https://github.com/DZ521111/HLS-Vivado-Brain-Tumor-Detection-Optimization)**  
-  Optimized tumor detection model in Vivado; reduced latency ~3.4M → 1.24M cycles.
-
-- 🌄 **[Panorama Stitching](https://github.com/DZ521111/Panorama-Homography-Warping)**  
-  Image stitching with ORB + RANSAC + warping for enhanced panorama generation.
-
-- 🐦 **[Zero-Shot Image Classification](https://github.com/DZ521111/VisualTransformer-ZeroShot-Classification)**  
-  CLIP + ViT for unseen bird species recognition with 64.3% accuracy.
-
-- 📡 **[Lichen Mapping (ISRO Research)](https://www.sciencedirect.com/science/article/abs/pii/S1873965223000749)**  
-  Satellite-based lichen classification in Antarctica – Published in *Polar Science (Elsevier)*
+### 🔍 Featured Projects
+| Project | Highlights |
+|--------|------------|
+| **MiDRE (M.Tech Thesis)** | Dual-expert sarcasm detector outperforming SOTA on MMSD2.0 (↑1.0% Acc, ↑3.8% F1) |
+| **DMGP (Few-shot Sarcasm)** | Gated prompt tuning + CLIP bias → MMSD2.0 accuracy ↑1.6% |
+| **Samsung AI AdBlocker** | Web extension w/ ANN + CNN models, 95.4% URL accuracy, 82.6% ad classification |
+| **IMDB Sentiment (HLS)** | Optimized latency 9× using Vivado HLS + C conversion |
+| **UNet Tumor Segmentation** | 98.97% accuracy on BraTS 3D MRI scans |
+| **Goat CNN Classifier** | DenseNet transfer learning, 99.4% accuracy, 6-breed validation |
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Toolbox
 
-#### 🧾 Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-
-#### ⚙️ Frameworks & Tools:
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/-GEE-34A853?logo=googleearthengine&logoColor=white)
-
-#### 🖥️ OS:
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![HuggingFace](https://img.shields.io/badge/-🤗%20Transformers-333?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
 ---
 
-### 📘 Selected Courses
-
-- Machine Learning | NLP | Image Processing  
-- DSA & Algorithms | OS | DBMS | Computer Networks  
-- C-Based VLSI | Data Structures Lab  
-
----
-
-### 📊 GitHub Stats
+### 📈 Stats at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DZ521111&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ521111&layout=compact&theme=tokyonight" width="48%" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abhrajyoti00&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajyoti00&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🛠️ Skills
 
-- 📧 Email: d.kakadiya@iitg.ac.in | dhruvkakadiya3@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-kakadiya-8a3202191)  
-- 🧠 [Google Scholar Article (Polar Science)](https://www.sciencedirect.com/science/article/abs/pii/S1873965223000749)
+- **Languages**: Python, C, C++, SQL, HTML/CSS
+- **ML/DL**: PyTorch, TensorFlow*, Keras*
+- **Tools**: Git, Docker*, Google Colab, Jupyter, LaTeX*
+- **Frameworks**: ReactJS*, HLS (Vivado)
+- **Softwares**: Linux, Windows  
+\* *Elementary proficiency
 
 ---
 
-<p align="center">✨ “Stay curious. Build. Solve. Repeat.” ✨</p>
+### 📚 Key Courses @ IIT Guwahati
+
+- Deep Learning
+- Artificial Intelligence
+- Image Processing with ML
+- Operating Systems
+- Data Structures & Algorithms
+- C-based VLSI Design
+
+---
+
+### 📈 Competitive Programming
+
+| Platform     | Username       | Current Rating | Highest Rating |
+|--------------|----------------|----------------|----------------|
+| LeetCode     | [Gorachand2501](https://leetcode.com/u/Gorachand2501/) | 1811           | 1811           |
+| CodeChef     | [gora25](https://www.codechef.com/users/gora25)        | 1657 (3⭐)      | 1698           |
+| CodeForces   | [gora2501](https://codeforces.com/profile/gora2501)    | 1257 (Pupil)   | 1289           |
+
+---
+
+### 🧑‍🏫 Experience
+
+**Teaching Assistant @ IIT Guwahati**  
+Courses:  
+- CS242 – Systems Software Lab  
+- CS345 – Software Engineering  
+- CS590 – Deep Learning  
+
+---
+
+### 📫 Let's Connect!
+
+- 📧 m.gorachand@iitg.ac.in | gorachand2501@gmail.com  
+- 🌐 [GitHub](https://github.com/Gorachand2501) | [LinkedIn](https://www.linkedin.com/in/gorachand25)
+
+---
+
+<p align="center">✨ “Keep Learning, Keep Building.” ✨</p>
