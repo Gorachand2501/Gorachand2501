@@ -83,15 +83,11 @@
 
 ---
 
+### 📘 Selected Courses
 
-### 📚 Key Courses @ IIT Guwahati
-
-- Deep Learning
-- Artificial Intelligence
-- Image Processing with ML
-- Operating Systems
-- Data Structures & Algorithms
-- C-based VLSI Design
+- Machine Learning | Deep Learning | Image Processing  
+- DSA & Algorithms | OS | DBMS | Computer Networks  
+- C-Based VLSI | Data Structures Lab | System Lab
 
 ---
 
@@ -111,7 +107,8 @@
 Courses:  
 - CS242 – Systems Software Lab  
 - CS345 – Software Engineering  
-- CS590 – Deep Learning  
+- CS590 – Deep Learning
+- CS101 – C Progamming
 
 ---
 
