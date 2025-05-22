@@ -73,13 +73,14 @@
 
 
 ---
-
+<!--
 ### 📈 Stats at a Glance
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abhrajyoti00&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajyoti00&layout=compact&theme=tokyonight" />
 </p>
+-->
 
 ---
 
